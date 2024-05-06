@@ -1,5 +1,4 @@
 "use client"
-import { increament } from './../../../../counter/app/redux/action/counterAction';
 import { createSlice } from "@reduxjs/toolkit";
 
 
